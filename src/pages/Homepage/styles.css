@@ -1,0 +1,31 @@
+.container-homepage {
+  border-top: 1px solid;
+  border-left: 1px solid;
+  width: 93%;
+  height: 625px;
+  padding: 1rem 3rem;
+}
+
+.container-buttons-homepage {
+  display: flex;
+  flex-direction: row;
+}
+
+.button-homepage {
+  display: flex;
+  align-items: center;
+  border: none;
+  color: rgb(87, 113, 48);
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 22px;
+  padding-right: 3rem;
+}
+
+.icon-homepage {
+  padding-left: 0.5rem;
+}
+
+.navlink-style {
+  text-decoration: none;
+}

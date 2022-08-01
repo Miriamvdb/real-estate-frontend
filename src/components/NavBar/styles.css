@@ -1,0 +1,15 @@
+.container-navbar {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar-logo-links {
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar-links {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
