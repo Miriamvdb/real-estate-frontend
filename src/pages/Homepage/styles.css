@@ -20,12 +20,23 @@
   font-weight: bold;
   font-size: 22px;
   padding-right: 3rem;
+  cursor: pointer;
 }
 
 .icon-homepage {
-  padding-left: 0.5rem;
+  padding-left: 0.45rem;
 }
 
 .navlink-style {
   text-decoration: none;
+}
+
+select {
+  background-color: rgb(87, 113, 48);
+  border: none;
+  color: white;
+  font-weight: bold;
+  width: 6rem;
+  height: 2rem;
+  text-align: center;
 }
